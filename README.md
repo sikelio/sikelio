@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on an monitoring dashboard<br>🌱 I’m currently learning C Sharp
+🔭 I’m currently working on Plex Manager App
+🌱 I’m currently learning C Sharp
 
 
 ## 🌐 Socials:
