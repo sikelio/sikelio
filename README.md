@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Plex Manager<br>🌱 I’m currently learning .NET & Java<br>⚡ Fun fact at the beginning i fought HTML was a coding language
-
+🔭 I’m currently working on Plex Manager<br>🌱 I’m currently learning Rust, .NET & Java
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskar-drevet-nitschke) 
