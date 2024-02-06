@@ -25,7 +25,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sikelio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sikelio&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sikelio&theme=tokyonight&hide_border=false) <br><br>
+<img src="https://raw.githubusercontent.com/sikelio/sikelio/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sikelio&icon=0&color=0)](https://visitcount.itsvg.in)
