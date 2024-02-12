@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Plex Manager<br>🌱 I’m currently learning Rust, .NET, Tailwind & Java<br>👥 [Dream Team IT - ISTP](https://github.com/istp-irup) | [Frenchy Apps 42](https://github.com/FrApp42)
+🔭 I’m currently working on Plex Manager<br>🌱 I’m currently learning Rust, .NET & Java<br>👥 [Dream Team IT - ISTP](https://github.com/istp-irup) | [Frenchy Apps 42](https://github.com/FrApp42)
 
 # 💻 Tech Stack:
 ## Frontend
