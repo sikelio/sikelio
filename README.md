@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Young Dev/DevOps trusting in Open Surce
+🔭 Young Dev/DevOps trusting in Open Source
 
 # 💻 Tech Stack:
 ## Languages
